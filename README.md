@@ -11,3 +11,5 @@ npm start
 ```
 npm test
 ```
+
+![](https://upload-images.jianshu.io/upload_images/6927087-9d888baa758d9ab5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
