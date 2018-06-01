@@ -1,0 +1,19 @@
+{
+  "name": "lcd_mocha",
+  "version": "1.0.0",
+  "description": "LCD显示+Mocha测试",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ./js/lcd.js"
+  },
+  "author": "邵博超",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
